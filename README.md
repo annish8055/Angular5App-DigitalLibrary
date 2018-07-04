@@ -21,3 +21,5 @@ o Review & recommend books to friends
 * When book details are not available through public, allow admin to enter the details manually
 * Display the list of books taken by users and filter by book title, book author, user id, user name, issued date
 * Sort the above list by issued date, book title, book author, user name
+# NOTES
+# PROCESS
