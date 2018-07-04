@@ -1,5 +1,6 @@
 # Angular5App-DigitalLibrary
-self-sustained library enabled &amp; available through mobile, tablets &amp; PCs with the following features, User Role  Able to search for a book using Author or Title 
+self-sustained library enabled &amp; available through mobile, tablets &amp; PCs with the following features, User Role 
+* Able to search for a book using Author or Title 
  Able to filter book by book genre / category (ex: Technology, Business, Fiction, Management…..)
  View Book details like Author, Title, Thumbnail image, ISBN, Description 
 Renew the book once for configured days
